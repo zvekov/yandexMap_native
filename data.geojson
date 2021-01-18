@@ -1,0 +1,2613 @@
+{
+	"type": "FeatureCollection",
+	"metadata": { "name": "Чистая польза UPD 14.01/2020", "creator": "Yandex Map Constructor" },
+	"features": [
+		{
+			"type": "Feature",
+			"id": 0,
+			"geometry": { "type": "Point", "coordinates": [43.035747, 44.631771] },
+			"properties": {
+				"description": "ИП Кетоев Герман Олегович,Владикавказ, ул. Морских Пехотинцев 15А",
+				"iconCaption": "1",
+				"iconContent": "1",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1,
+			"geometry": { "type": "Point", "coordinates": [58.101316, 56.303213] },
+			"properties": {
+				"description": "ИП Кудымова Ольга Дмитриевна,Пермь, Маршала Толбухина, 15",
+				"iconCaption": "2",
+				"iconContent": "2",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2,
+			"geometry": { "type": "Point", "coordinates": [57.898562, 55.940779] },
+			"properties": {
+				"description": "ИП Парфенова Марина Владимировна,Пермь, с.Култаево, Ул.Снежная 7/1",
+				"iconCaption": "3",
+				"iconContent": "3",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3,
+			"geometry": { "type": "Point", "coordinates": [55.750054, 49.208732] },
+			"properties": {
+				"description": "ИП Киселев Владимир Валерьевич,Казань, станция метро Проспект победы",
+				"iconCaption": "4",
+				"iconContent": "4",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4,
+			"geometry": { "type": "Point", "coordinates": [55.783549, 49.227291] },
+			"properties": {
+				"description": "ИП Лебедева Татьяна Александровна,Казань, Вагапова 3",
+				"iconCaption": "5",
+				"iconContent": "5",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5,
+			"geometry": { "type": "Point", "coordinates": [55.831853, 49.148482] },
+			"properties": {
+				"description": "ИП Луценко Михаил Валентинович,Казань, Адоратского 12",
+				"iconCaption": "6",
+				"iconContent": "6",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 6,
+			"geometry": { "type": "Point", "coordinates": [54.894741, 52.266507] },
+			"properties": {
+				"description": "ИП Хисамеева Жанна Тагировна,Альметьевск, Галеева 3",
+				"iconCaption": "7",
+				"iconContent": "7",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 7,
+			"geometry": { "type": "Point", "coordinates": [56.296019, 44.046177] },
+			"properties": {
+				"description": "ИП Леонтьева Ольга Георгиевна,Нижний Новгород, Площадь Советская, 7",
+				"iconCaption": "8",
+				"iconContent": "8",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 8,
+			"geometry": { "type": "Point", "coordinates": [60.770731, 46.314001] },
+			"properties": {
+				"description": "ИП Шулейкина Наталья Ивановна,Великий Устюг, Сахарова 15",
+				"iconCaption": "9",
+				"iconContent": "9",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 9,
+			"geometry": { "type": "Point", "coordinates": [53.53966, 49.343964] },
+			"properties": {
+				"description": "ИП Походяев Сергей Александрович,Тольятти, ул.Тополиная 24а, ТД Каретный Двор",
+				"iconCaption": "10",
+				"iconContent": "10",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 10,
+			"geometry": { "type": "Point", "coordinates": [53.9651, 58.410957] },
+			"properties": {
+				"description": "ИП Полетавкин Сергей Петрович,Белорецк, Городской рынок, Точисского, д27",
+				"iconCaption": "11",
+				"iconContent": "11",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 11,
+			"geometry": { "type": "Point", "coordinates": [55.404898, 43.828839] },
+			"properties": {
+				"description": "ИП ШалашовРоман Федорович,Арзамас, Парковая 14",
+				"iconCaption": "13",
+				"iconContent": "13",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 12,
+			"geometry": { "type": "Point", "coordinates": [61.260157, 73.466865] },
+			"properties": {
+				"description": "ИП Асылгужин Шамил Шарифуллович,Сургут, 30 лет Победы 53 Рынок Союз Оптовиков . Бутик 65",
+				"iconCaption": "14",
+				"iconContent": "14",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 13,
+			"geometry": { "type": "Point", "coordinates": [54.483724, 53.50523] },
+			"properties": {
+				"description": "ИП Гулиева Севда Вахид кызы,Октябрьский, пр.Ленина, 59/1 ТРЦ Верба",
+				"iconCaption": "15",
+				"iconContent": "15",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 14,
+			"geometry": { "type": "Point", "coordinates": [53.621362, 55.954424] },
+			"properties": {
+				"description": "ИП Гулиева Севда Вахид кызы,ул. Худайбердина, 65, Стерлитамак",
+				"iconCaption": "16",
+				"iconContent": "16",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15,
+			"geometry": { "type": "Point", "coordinates": [53.622585, 55.901585] },
+			"properties": {
+				"description": "ИП Аскеров Рахиб Аслан оглы,Стерлитамак, ул. Артёма, 96",
+				"iconCaption": "17",
+				"iconContent": "17",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 16,
+			"geometry": { "type": "Point", "coordinates": [56.08777, 63.608897] },
+			"properties": {
+				"description": "ООО \"Семерка\",Шадринск, ул. Красноармейская 71А",
+				"iconCaption": "18",
+				"iconContent": "18",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 17,
+			"geometry": { "type": "Point", "coordinates": [55.18706, 61.333536] },
+			"properties": {
+				"description": "ИП Переславцев Константин Григорьевич,Челябинск, ул.Молодогвардейцев, 33б",
+				"iconCaption": "19",
+				"iconContent": "19",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 18,
+			"geometry": { "type": "Point", "coordinates": [55.804764, 43.168873] },
+			"properties": {
+				"description": "ИП Бобочков Эдуврд Валентинович,п. Сосновское ул. Ленина д.33/1",
+				"iconCaption": "20",
+				"iconContent": "20",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 19,
+			"geometry": { "type": "Point", "coordinates": [55.181046, 61.292905] },
+			"properties": {
+				"description": "ИП Милик Ирина Николаевна,Челябинск, ул. Чичерина 28",
+				"iconCaption": "21",
+				"iconContent": "21",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 20,
+			"geometry": { "type": "Point", "coordinates": [58.611569, 49.678874] },
+			"properties": {
+				"description": "ИП Колбина Вера Александровна,Киров, Розы Люксембург 30",
+				"iconCaption": "22",
+				"iconContent": "22",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 21,
+			"geometry": { "type": "Point", "coordinates": [55.350484, 86.133488] },
+			"properties": {
+				"description": "ИП Самохин Александр Владимирович,Кемерово, ул. Проспект Октябрьский 34 ТЦ Лапландия",
+				"iconCaption": "25",
+				"iconContent": "25",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 22,
+			"geometry": { "type": "Point", "coordinates": [54.736977, 55.957802] },
+			"properties": {
+				"description": "ИП Сидорова Л.П.,Уфа, ул. Цюрупы 97",
+				"iconCaption": "26",
+				"iconContent": "26",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 23,
+			"geometry": { "type": "Point", "coordinates": [55.191572, 61.442574] },
+			"properties": {
+				"description": "ИП Салихова Альбина Аюповна,Челябинск ПРОИЗВОДСТВО, ул.Феросплавная 80",
+				"iconCaption": "27",
+				"iconContent": "27",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 24,
+			"geometry": { "type": "Point", "coordinates": [53.625896, 55.941318] },
+			"properties": {
+				"description": "ООО \" Госпром\",Стерлитамак ПРОИЗВОДСТВО, Худайбердина 83 а",
+				"iconCaption": "28",
+				"iconContent": "28",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 25,
+			"geometry": { "type": "Point", "coordinates": [43.038667, 44.634879] },
+			"properties": {
+				"description": "ИП Кетоев Герман Олегович,Владикавказ ПРОИЗВОДСТВО, ул.Весенняя 10а",
+				"iconCaption": "29",
+				"iconContent": "29",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 26,
+			"geometry": { "type": "Point", "coordinates": [60.775634, 46.315133] },
+			"properties": {
+				"description": "ИП Шулейкина Наталья Ивановна,Великий Устюг ПРОИЗВОДСТВО, ул Виноградова 87",
+				"iconCaption": "30",
+				"iconContent": "30",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 27,
+			"geometry": { "type": "Point", "coordinates": [53.553475, 49.31512] },
+			"properties": {
+				"description": "ИП Походяев Сергей Александрович,Тольятти ПРОИЗВОДСТВО, ул.Транспортная 17",
+				"iconCaption": "31",
+				"iconContent": "31",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 28,
+			"geometry": { "type": "Point", "coordinates": [61.253494, 73.367592] },
+			"properties": {
+				"description": "ИП Асылгужин Шамил Шарифуллович,Сургут ПРОИЗВОДСТВО, Кукуевицкого 15",
+				"iconCaption": "32",
+				"iconContent": "32",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 29,
+			"geometry": { "type": "Point", "coordinates": [55.321144, 86.063051] },
+			"properties": {
+				"description": "ИП Самохин Александр Владимирович,Кемерово ПРОИЗВОДСТВО, ул.Камышинская 3-а",
+				"iconCaption": "33",
+				"iconContent": "33",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 30,
+			"geometry": { "type": "Point", "coordinates": [55.785321, 49.126545] },
+			"properties": {
+				"description": "Неизвестно,Казань, ТЦ Республика, Петербургская 9",
+				"iconCaption": "34",
+				"iconContent": "34",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 31,
+			"geometry": { "type": "Point", "coordinates": [55.829578, 49.118586] },
+			"properties": {
+				"description": "Неизвестно,Казань, ТЦ Парк Хаус, ул. Хусаина Ямашева, 46",
+				"iconCaption": "35",
+				"iconContent": "35",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 32,
+			"geometry": { "type": "Point", "coordinates": [55.725823, 49.189257] },
+			"properties": {
+				"description": "Неизвестно,Казань, Оренбургский тракт, 160",
+				"iconCaption": "36",
+				"iconContent": "36",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 33,
+			"geometry": { "type": "Point", "coordinates": [54.82222, 56.084617] },
+			"properties": {
+				"description": "ИП Валеев Айрат Валерьевич,Уфа, ул.Кольцевая 65/1",
+				"iconCaption": "37",
+				"iconContent": "37",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 34,
+			"geometry": { "type": "Point", "coordinates": [55.187856, 61.286392] },
+			"properties": {
+				"description": "ИП Хасанова Наталья Шамильевна,Челябинск, Чичерина, 7",
+				"iconCaption": "38",
+				"iconContent": "38",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 35,
+			"geometry": { "type": "Point", "coordinates": [55.951225, 37.298113] },
+			"properties": {
+				"description": "ООО «СанэлКреп №1»,Химки, мкрн.Сходня ул.Горького 5",
+				"iconCaption": "39",
+				"iconContent": "39",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 36,
+			"geometry": { "type": "Point", "coordinates": [60.005324, 30.328022] },
+			"properties": {
+				"description": "ИП Зворыгин Сергей Борисович,Санкт-Петербург, Энгельса 27",
+				"iconCaption": "40",
+				"iconContent": "40",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 37,
+			"geometry": { "type": "Point", "coordinates": [53.194848, 50.125409] },
+			"properties": {
+				"description": "ООО \"Венера-Н\",Самара, Агибалова 19",
+				"iconCaption": "41",
+				"iconContent": "41",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 38,
+			"geometry": { "type": "Point", "coordinates": [44.973627, 34.099204] },
+			"properties": {
+				"description": "ИП Безбатченко Игорь Анатольевич,Симферополь, ул.Кечкеметская 1, ТЦ \"Яблоко\"",
+				"iconCaption": "42",
+				"iconContent": "42",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 39,
+			"geometry": { "type": "Point", "coordinates": [54.163269, 37.587982] },
+			"properties": {
+				"description": "ООО \"БытПольза\",Тула, ул. Демонстрации 1а / ул. Академика Павлова 2",
+				"iconCaption": "43",
+				"iconContent": "43",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 40,
+			"geometry": { "type": "Point", "coordinates": [44.669469, 37.780149] },
+			"properties": {
+				"description": "ИП Зайцева Вера Валерьевна,Новороссийск, ул. Григорьева 1, ГМ Лента",
+				"iconCaption": "44",
+				"iconContent": "44",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 41,
+			"geometry": { "type": "Point", "coordinates": [56.899699, 60.613213] },
+			"properties": {
+				"description": "ИП Паутов Дмитрий Валерьевич,Екатеринбург, пр. Космонавтов 41",
+				"iconCaption": "45",
+				"iconContent": "45",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 42,
+			"geometry": { "type": "Point", "coordinates": [54.997724, 73.282701] },
+			"properties": {
+				"description": "ИП Федорович Денис Александрович,Омск, пр. Комарова 2/2",
+				"iconCaption": "46",
+				"iconContent": "46",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 43,
+			"geometry": { "type": "Point", "coordinates": [51.53824, 46.016757] },
+			"properties": {
+				"description": "ИП Юдин Александр Владимирович\r\n,Саратов, Московская 152 угол Рахова",
+				"iconCaption": "47",
+				"iconContent": "47",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 44,
+			"geometry": { "type": "Point", "coordinates": [55.743613, 37.996841] },
+			"properties": {
+				"description": "ООО \"Регионпромсталь\",Балашиха МО, Мкр. Железнодорожный, ул. Рождественская 10",
+				"iconCaption": "50",
+				"iconContent": "50",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 45,
+			"geometry": { "type": "Point", "coordinates": [58.008557, 56.30995] },
+			"properties": {
+				"description": "ООО «КЕТ-Профи»,Пермь, ТЦ Вознесенский, ул. Юрша, 62",
+				"iconCaption": "51",
+				"iconContent": "51",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 46,
+			"geometry": { "type": "Point", "coordinates": [51.286703, 37.811141] },
+			"properties": {
+				"description": "ИП Крек Роман Андреевич,Старый Оскол, мкр. Интернациональный дом 13",
+				"iconCaption": "52",
+				"iconContent": "52",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 47,
+			"geometry": { "type": "Point", "coordinates": [54.705002, 55.996762] },
+			"properties": {
+				"description": "ИП Фатхлисламова Файруза Багаутдинова,Уфа, ул. Степана Кулыкина, 23",
+				"iconCaption": "53",
+				"iconContent": "53",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 48,
+			"geometry": { "type": "Point", "coordinates": [51.524967, 46.008421] },
+			"properties": {
+				"description": "ИП Илюхин Евгений Владимирович,Саратов, ул. Рахова 53, Магнит",
+				"iconCaption": "54",
+				"iconContent": "54",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 49,
+			"geometry": { "type": "Point", "coordinates": [60.072027, 30.340698] },
+			"properties": {
+				"description": "ООО \"Информ-Сервис\",Санкт-Петербург, п. Парголово,, п. Парголово, 4-й Верхний пер., 1А лит.А",
+				"iconCaption": "56",
+				"iconContent": "56",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 50,
+			"geometry": { "type": "Point", "coordinates": [45.093492, 39.003305] },
+			"properties": {
+				"description": "ИП Третяк Анна Владимировна,Краснодар, Московская 144/2/, ТЦ Стрелка, Московская 162",
+				"iconCaption": "57",
+				"iconContent": "57",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 51,
+			"geometry": { "type": "Point", "coordinates": [56.017754, 92.821328] },
+			"properties": {
+				"description": "ИП Моисеенко Наталья Юрьевна,Красноярск, ТК \"Славянский\" ул. Новосибирская, 7",
+				"iconCaption": "58",
+				"iconContent": "58",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 52,
+			"geometry": { "type": "Point", "coordinates": [60.936801, 76.601734] },
+			"properties": {
+				"description": "ИП Полтанов Владимир Дмитриевич,Нижневартовск, ТЦ Асторг, Мира 72",
+				"iconCaption": "59",
+				"iconContent": "59",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 53,
+			"geometry": { "type": "Point", "coordinates": [53.213682, 50.134617] },
+			"properties": {
+				"description": "ИП Фурсова Елена Валентинова,Самара, Ново-Садовая 305 А второй этаж, секция 30, ТЦ Апельсин",
+				"iconCaption": "60",
+				"iconContent": "60",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 54,
+			"geometry": { "type": "Point", "coordinates": [51.598304, 46.003696] },
+			"properties": {
+				"description": "ООО \"ОТКРЫТАЯ ВСЕЛЕННАЯ\",Саратов, ул. Блинова, 50 п. Солнечный",
+				"iconCaption": "61",
+				"iconContent": "61",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 55,
+			"geometry": { "type": "Point", "coordinates": [55.755687, 52.432687] },
+			"properties": {
+				"description": "ИП Хакимова Ирина Витальевна,Набережные Челны, Мира. д. 88",
+				"iconCaption": "62",
+				"iconContent": "62",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 56,
+			"geometry": { "type": "Point", "coordinates": [46.357983, 48.054011] },
+			"properties": {
+				"description": "ИП Савицкая Анна Владимировна,Астрахань, привокзальная, д. 19",
+				"iconCaption": "63",
+				"iconContent": "63",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 57,
+			"geometry": { "type": "Point", "coordinates": [57.127276, 65.553094] },
+			"properties": {
+				"description": "ИП Исаева Мария Андреевна,Тюмень, Мельникайте, 126/3",
+				"iconCaption": "64",
+				"iconContent": "64",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 58,
+			"geometry": { "type": "Point", "coordinates": [57.105529, 65.574042] },
+			"properties": {
+				"description": "ИП Веденев Антон Сергеевич,Тюмень, Прокопия Артамонова, 8",
+				"iconCaption": "65",
+				"iconContent": "65",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 59,
+			"geometry": { "type": "Point", "coordinates": [64.531287, 40.615511] },
+			"properties": {
+				"description": "ООО \"ПРОШАР\",Архангельск, Пр. Московский 46, ТЦ Макси",
+				"iconCaption": "66",
+				"iconContent": "66",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 60,
+			"geometry": { "type": "Point", "coordinates": [56.505167, 60.264173] },
+			"properties": {
+				"description": "ИП Изгорева Ирина Витальевна,Полевской, Зелный бор 4а",
+				"iconCaption": "67",
+				"iconContent": "67",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61,
+			"geometry": { "type": "Point", "coordinates": [56.337796, 37.51273] },
+			"properties": {
+				"description": "ИП Пашнина Татьяна Анатольевна,Дмитров, Пер. Вокзальный, д. 7",
+				"iconCaption": "68",
+				"iconContent": "68",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 62,
+			"geometry": { "type": "Point", "coordinates": [55.014732, 82.926682] },
+			"properties": {
+				"description": "ИП Орлова Татьяна Петровна,Новосибирск, ул. Красный Проспект 2/1, АТК \"Мегас\"",
+				"iconCaption": "69",
+				"iconContent": "69",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 63,
+			"geometry": { "type": "Point", "coordinates": [58.54086, 31.230389] },
+			"properties": {
+				"description": "Хребтов Дмитрий Владимирович,Великий Новгород, ТЦ Барк ул. Свободы 25",
+				"iconCaption": "70",
+				"iconContent": "70",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 64,
+			"geometry": { "type": "Point", "coordinates": [50.104017, 45.419719] },
+			"properties": {
+				"description": "ИП Шелекето Игнатий Александрович,Камышин, Ленина, 26",
+				"iconCaption": "71",
+				"iconContent": "71",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 65,
+			"geometry": { "type": "Point", "coordinates": [54.994202, 73.370098] },
+			"properties": {
+				"description": "ИП Куриченко Анастасия Владимировна,Омск, Фрунзе, д. 72",
+				"iconCaption": "72",
+				"iconContent": "72",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 66,
+			"geometry": { "type": "Point", "coordinates": [55.743401, 52.434942] },
+			"properties": {
+				"description": "ИП Манылов Сергей Николаевич,Набережные Челны, проспект Московский 136",
+				"iconCaption": "73",
+				"iconContent": "73",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 67,
+			"geometry": { "type": "Point", "coordinates": [42.954931, 47.517034] },
+			"properties": {
+				"description": "ИП Губайдуллина Дарья Александровна,Махачкала, Ирчи Казака, д. 36 А",
+				"iconCaption": "74",
+				"iconContent": "74",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 68,
+			"geometry": { "type": "Point", "coordinates": [52.974367, 36.08926] },
+			"properties": {
+				"description": "ИП Афанасова Ольга Леонидовна,Орел, Московская, д. 67",
+				"iconCaption": "75",
+				"iconContent": "75",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 69,
+			"geometry": { "type": "Point", "coordinates": [56.102338, 47.309631] },
+			"properties": {
+				"description": "ИП Петрова Алина Николаевна,Чебоксары, Тракторостроителей 36, корп 1",
+				"iconCaption": "76",
+				"iconContent": "76",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 70,
+			"geometry": { "type": "Point", "coordinates": [56.47255, 53.810038] },
+			"properties": {
+				"description": "ИП Быкова Виктория Владимировна,Сарапул, Фермерский рынок, пл. свободы д.1",
+				"iconCaption": "79",
+				"iconContent": "79",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 71,
+			"geometry": { "type": "Point", "coordinates": [44.999344, 41.913262] },
+			"properties": {
+				"description": "ИП Погожев Вячеслав Владимирович,Ставрополь, 45 параллель, д 38 квартал 528",
+				"iconCaption": "81",
+				"iconContent": "81",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 72,
+			"geometry": { "type": "Point", "coordinates": [54.763072, 20.605745] },
+			"properties": {
+				"description": "ИП Молчанов Сергей Станиславович,Гурьевск, улица Пражский бульвар, дом 3в",
+				"iconCaption": "83",
+				"iconContent": "83",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 73,
+			"geometry": { "type": "Point", "coordinates": [60.010987, 30.40048] },
+			"properties": {
+				"description": "ИП Бергут Светлана Филимоновна,Санкт-Петербург, ул. Науки, д. 21",
+				"iconCaption": "84",
+				"iconContent": "84",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 74,
+			"geometry": { "type": "Point", "coordinates": [54.988526, 73.383088] },
+			"properties": {
+				"description": "ООО «ИНТЕРЛАЙН»,Омск, Березовского, д. 19",
+				"iconCaption": "85",
+				"iconContent": "85",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 75,
+			"geometry": { "type": "Point", "coordinates": [60.94389, 76.634702] },
+			"properties": {
+				"description": "ИП Исматова Гульфия Фаритовна,Нижневартовск, ул. Интернациональная, д. 73",
+				"iconCaption": "87",
+				"iconContent": "87",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 76,
+			"geometry": { "type": "Point", "coordinates": [47.728914, 40.244597] },
+			"properties": {
+				"description": "ИП Демьяненко Роман Сергеевич,Шахты, Индустриальная, 7",
+				"iconCaption": "88",
+				"iconContent": "88",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 77,
+			"geometry": { "type": "Point", "coordinates": [54.55867, 36.125866] },
+			"properties": {
+				"description": "ИП Чебеляева Ирина Юрьевна,Калуга, Центральная ул., 14, д. Мстихино",
+				"iconCaption": "89",
+				"iconContent": "89",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 78,
+			"geometry": { "type": "Point", "coordinates": [48.702406, 44.482668] },
+			"properties": {
+				"description": "ИП Пищик Сергей Георгиевич,Волгоград, ГМ Покупочка, Елецкая 11",
+				"iconCaption": "90",
+				"iconContent": "90",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 79,
+			"geometry": { "type": "Point", "coordinates": [58.613013, 49.622478] },
+			"properties": {
+				"description": "ИП Пушкарева Елена Сергеевна,Киров, Лепсе 43 Маг.",
+				"iconCaption": "91",
+				"iconContent": "91",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 80,
+			"geometry": { "type": "Point", "coordinates": [55.537011, 37.72157] },
+			"properties": {
+				"description": "ИП Репин Андрей Сергеевич,Видное МО, Д. Сапроново, мкр. Купелинка, Северный квартл 2",
+				"iconCaption": "92",
+				"iconContent": "92",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 81,
+			"geometry": { "type": "Point", "coordinates": [52.723554, 41.435242] },
+			"properties": {
+				"description": "ИП Иноземцев Алексей Дмитриевич,Тамбов, ТЦ Линия Октябрьская 38",
+				"iconCaption": "93",
+				"iconContent": "93",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 82,
+			"geometry": { "type": "Point", "coordinates": [54.741197, 55.98732] },
+			"properties": {
+				"description": "ИП Файзуллин Алмаз Наилевич,Уфа, просп. Октября, 4/1 ТРЦ Мир",
+				"iconCaption": "95",
+				"iconContent": "95",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 83,
+			"geometry": { "type": "Point", "coordinates": [55.51644, 47.523843] },
+			"properties": {
+				"description": "ИП Силантьев Сергей Александрович,Канаш, ул. Ильича, д. 7а,27",
+				"iconCaption": "96",
+				"iconContent": "96",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 84,
+			"geometry": { "type": "Point", "coordinates": [44.562046, 38.080528] },
+			"properties": {
+				"description": "ИП Блинов Артем Викторович,Геленджик, Горького д. 6 Центральный рынок",
+				"iconCaption": "97",
+				"iconContent": "97",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 85,
+			"geometry": { "type": "Point", "coordinates": [42.979643, 47.498142] },
+			"properties": {
+				"description": "ООО «АРБАТ»,Махачкала, Дзержинского 12",
+				"iconCaption": "98",
+				"iconContent": "98",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 86,
+			"geometry": { "type": "Point", "coordinates": [57.817002, 28.315015] },
+			"properties": {
+				"description": "ИП Александров Вадим Михайлович,Псков, Конная ул., 35 ТЦ Рижский",
+				"iconCaption": "99",
+				"iconContent": "99",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 87,
+			"geometry": { "type": "Point", "coordinates": [44.881969, 37.328414] },
+			"properties": {
+				"description": "ИП Красносельская Татьяна Михайловна,Анапа, Ул. Промышленная,16, павильон 47",
+				"iconCaption": "100",
+				"iconContent": "100",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 88,
+			"geometry": { "type": "Point", "coordinates": [58.026581, 56.294697] },
+			"properties": {
+				"description": "ИП Глухих Ольга Владимировна,Пермь, Уральская 85 А",
+				"iconCaption": "101",
+				"iconContent": "101",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 89,
+			"geometry": { "type": "Point", "coordinates": [55.790008, 37.622881] },
+			"properties": {
+				"description": "ИП Коромыслова Анна Васильевна,Москва, Олимпийский пр-т, 26с1",
+				"iconCaption": "102",
+				"iconContent": "102",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 90,
+			"geometry": { "type": "Point", "coordinates": [61.27084, 73.392565] },
+			"properties": {
+				"description": "ИП Маркин Артем Владимирович,Сургут, тц Зеленый берег, Нефтеюганское шоссе 16/1",
+				"iconCaption": "103",
+				"iconContent": "103",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 91,
+			"geometry": { "type": "Point", "coordinates": [47.208845, 39.63164] },
+			"properties": {
+				"description": "ИП Левенец Виктория Александровна,Ростов-На-Дону, проспект Коммунистический, 30 ТЦ Плаза",
+				"iconCaption": "104",
+				"iconContent": "104",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 92,
+			"geometry": { "type": "Point", "coordinates": [55.580121, 38.918665] },
+			"properties": {
+				"description": "ИП Курсанова Алена Юрьевна,Куровское МО, Советская 105 ТЦ Светлана",
+				"iconCaption": "105",
+				"iconContent": "105",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 93,
+			"geometry": { "type": "Point", "coordinates": [59.838304, 30.39836] },
+			"properties": {
+				"description": "ИП Журавлев Игорь Николаевич,Санкт-Петербург, ул. Будапештская, 94",
+				"iconCaption": "106",
+				"iconContent": "106",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 94,
+			"geometry": { "type": "Point", "coordinates": [53.23019, 50.211243] },
+			"properties": {
+				"description": "ИП Шишкарев Юрий Яковлевич,Самара, СтараЗагора 59 ТЦ Старозагорский",
+				"iconCaption": "107",
+				"iconContent": "107",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 95,
+			"geometry": { "type": "Point", "coordinates": [54.738692, 20.485056] },
+			"properties": {
+				"description": "ИП Гагина Светлана Евгеньевна,Калининград, ТЦ Green market, ул. Генерала Челнокова 21.",
+				"iconCaption": "108",
+				"iconContent": "108",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 96,
+			"geometry": { "type": "Point", "coordinates": [59.186503, 39.854539] },
+			"properties": {
+				"description": "ИП Сорокин Андрей Александрович,Вологда, Ул. Окружное шоссе д. 28 Маг. Макси",
+				"iconCaption": "109",
+				"iconContent": "109",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 97,
+			"geometry": { "type": "Point", "coordinates": [50.976297, 44.77834] },
+			"properties": {
+				"description": "ИП Озернова Вера Анатольевна,Жирновск, Ломоносова, д.35",
+				"iconCaption": "110",
+				"iconContent": "110",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 98,
+			"geometry": { "type": "Point", "coordinates": [53.517994, 49.290865] },
+			"properties": {
+				"description": "ИП Гуреева Ольга Ростиславна,Тольятти, Ленинский проспект 17",
+				"iconCaption": "113",
+				"iconContent": "113",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 99,
+			"geometry": { "type": "Point", "coordinates": [50.653929, 38.671961] },
+			"properties": {
+				"description": "ООО «Био-Гран»,Алексеевка, ул. Загородная, д. 11",
+				"iconCaption": "114",
+				"iconContent": "114",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 100,
+			"geometry": { "type": "Point", "coordinates": [55.045387, 82.860674] },
+			"properties": {
+				"description": "ИП Королева Наталья Николаевна,Новосибирск, Магнит Сухарная 35 корпус 5/ Ул. Первомайская д.238",
+				"iconCaption": "116",
+				"iconContent": "116",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 101,
+			"geometry": { "type": "Point", "coordinates": [45.6142, 38.933964] },
+			"properties": {
+				"description": "ИП Таранова Ирина Анатольевна,Тимошевск, ул. Сахарный завод, д. 90",
+				"iconCaption": "117",
+				"iconContent": "117",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 102,
+			"geometry": { "type": "Point", "coordinates": [56.816789, 60.562476] },
+			"properties": {
+				"description": "ИП Демышев Аркадий Георгиевич,Екатеринбург, Белореченская 28, ТЦ Гудмарт",
+				"iconCaption": "118",
+				"iconContent": "118",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 103,
+			"geometry": { "type": "Point", "coordinates": [48.808103, 44.612574] },
+			"properties": {
+				"description": "ИП Бережнова Алина Сергеевна,Волгоград, пр. Ленина 144",
+				"iconCaption": "119",
+				"iconContent": "119",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 104,
+			"geometry": { "type": "Point", "coordinates": [58.047873, 38.83682] },
+			"properties": {
+				"description": "ИП Барбашев Василий Александрович,Рыбинск, Радищева, 44",
+				"iconCaption": "120",
+				"iconContent": "120",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 105,
+			"geometry": { "type": "Point", "coordinates": [56.047912, 92.948422] },
+			"properties": {
+				"description": "ИП Филяков Владимир Игоревич,Красноярск, Пр. Металлургов 32",
+				"iconCaption": "121",
+				"iconContent": "121",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 106,
+			"geometry": { "type": "Point", "coordinates": [52.544358, 103.88824] },
+			"properties": {
+				"description": "ИП Рекунов Павел Валерьевич,Ангарск, ТЦ \"Шанхаймолл\" 124 квартл здание 1 помещение 3",
+				"iconCaption": "122",
+				"iconContent": "122",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 107,
+			"geometry": { "type": "Point", "coordinates": [54.232454, 49.55488] },
+			"properties": {
+				"description": "ИП Гумеров Айрат Ильшатович,Димитровград, просп. Ленина, 23А",
+				"iconCaption": "123",
+				"iconContent": "123",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 108,
+			"geometry": { "type": "Point", "coordinates": [51.827535, 107.584269] },
+			"properties": {
+				"description": "ИП Азаренко Раиса Петровна,Улан-Удэ, ул. Ленина, 27",
+				"iconCaption": "124",
+				"iconContent": "124",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 109,
+			"geometry": { "type": "Point", "coordinates": [54.966463, 82.852966] },
+			"properties": {
+				"description": "ИП Ефремов Дмитрий Сергеевич,Новосибирск, Тц Континент, ул. Тролейная, 130 А",
+				"iconCaption": "125",
+				"iconContent": "125",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 110,
+			"geometry": { "type": "Point", "coordinates": [54.764631, 56.04254] },
+			"properties": {
+				"description": "ИП Кальметьев Марат Марсович,Уфа, ул. Сипайловска, 1",
+				"iconCaption": "126",
+				"iconContent": "126",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 111,
+			"geometry": { "type": "Point", "coordinates": [54.713475, 55.993582] },
+			"properties": {
+				"description": "ИП Габдрафиков Рустам Валеевич,Уфа, Менделеева, д. 137",
+				"iconCaption": "127",
+				"iconContent": "127",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 112,
+			"geometry": { "type": "Point", "coordinates": [56.039208, 92.881875] },
+			"properties": {
+				"description": "ИП Пузырев Виталий Владиславович,Красноярск, ТРК Покровский, Дмитрия Мартынова, д. 12",
+				"iconCaption": "128",
+				"iconContent": "128",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 113,
+			"geometry": { "type": "Point", "coordinates": [53.215462, 50.16189] },
+			"properties": {
+				"description": "ИП Самохина Юлия Сергеевна,Самара, ТЦ Аврора ул. Аэродромная 47А/ Ерошевского 20",
+				"iconCaption": "129",
+				"iconContent": "129",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 114,
+			"geometry": { "type": "Point", "coordinates": [53.5427, 49.320734] },
+			"properties": {
+				"description": "ИП Титушин Дмитрий Евгеньевич,Тольятти, 70 лет октября 57",
+				"iconCaption": "130",
+				"iconContent": "130",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 115,
+			"geometry": { "type": "Point", "coordinates": [51.776653, 55.141485] },
+			"properties": {
+				"description": "ИП Кудрявцева Алена Владимировна,Оренбург, ГМ Карусель ул. Туркменистанская 149/2",
+				"iconCaption": "131",
+				"iconContent": "131",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 116,
+			"geometry": { "type": "Point", "coordinates": [52.510746, 103.862602] },
+			"properties": {
+				"description": "ИП Кищик Сергей Александрович,Ангарск, 2В, микрорайон 12А",
+				"iconCaption": "132",
+				"iconContent": "132",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 117,
+			"geometry": { "type": "Point", "coordinates": [51.241808, 58.468934] },
+			"properties": {
+				"description": "ИП Зеленцов Евгений Александрович,Орск, проспект Ленина 64",
+				"iconCaption": "133",
+				"iconContent": "133",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 118,
+			"geometry": { "type": "Point", "coordinates": [56.836298, 41.391934] },
+			"properties": {
+				"description": "ИП Фролов Александр Николаевич,Шуя, Высшая лига ул. Свердлова д. 115",
+				"iconCaption": "134",
+				"iconContent": "134",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 119,
+			"geometry": { "type": "Point", "coordinates": [54.077892, 61.529755] },
+			"properties": {
+				"description": "ИП Бакларов Шамиль Тинов оглы,Троицк, 2ой микрорайон д. 6а",
+				"iconCaption": "135",
+				"iconContent": "135",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 120,
+			"geometry": { "type": "Point", "coordinates": [58.14072, 52.69089] },
+			"properties": {
+				"description": "ИП Чеботарев Янис Андреевич,Глазов, Калинина 4",
+				"iconCaption": "136",
+				"iconContent": "136",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 121,
+			"geometry": { "type": "Point", "coordinates": [52.588691, 39.5357] },
+			"properties": {
+				"description": "ИП Опрышко Ирина Вячеславовна,Липецк, ул. Петра Смородина, 13А, ТЦ Армада",
+				"iconCaption": "137",
+				"iconContent": "137",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 122,
+			"geometry": { "type": "Point", "coordinates": [52.988968, 36.117323] },
+			"properties": {
+				"description": "ИП Куприянов Андрей Сергеевич,Орел, ул. Михалицына, д. 5, ТЦ Линия",
+				"iconCaption": "138",
+				"iconContent": "138",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 123,
+			"geometry": { "type": "Point", "coordinates": [55.709028, 37.620761] },
+			"properties": {
+				"description": "ИП Грачёва Владислава Вадимовна,Москва, Большая Тульская ул., 2",
+				"iconCaption": "140",
+				"iconContent": "140",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 124,
+			"geometry": { "type": "Point", "coordinates": [52.255355, 104.333697] },
+			"properties": {
+				"description": "ИП Романов Анатолий Александрович,Иркутск, ТЦ Виноград Байкальская ул., 244А",
+				"iconCaption": "141",
+				"iconContent": "141",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 125,
+			"geometry": { "type": "Point", "coordinates": [50.561798, 36.565169] },
+			"properties": {
+				"description": "ИП Саенко Сергей Викторович,Белгород, ул Бульвар Юности д 10",
+				"iconCaption": "142",
+				"iconContent": "142",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 126,
+			"geometry": { "type": "Point", "coordinates": [57.735876, 40.997753] },
+			"properties": {
+				"description": "ИП Кузьмичев Андрей Аркадьевич,Кострома, Профсоюзная 25а",
+				"iconCaption": "144",
+				"iconContent": "144",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 127,
+			"geometry": { "type": "Point", "coordinates": [54.278771, 48.293259] },
+			"properties": {
+				"description": "ИП Несонова Людмила Викторовна,Ульяновск, ГМ Гулливер, Рябикова, 54б",
+				"iconCaption": "145",
+				"iconContent": "145",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 128,
+			"geometry": { "type": "Point", "coordinates": [53.820135, 87.156076] },
+			"properties": {
+				"description": "ИП Димке Марина Алексеевна,Новокузнецк, Тореза 64",
+				"iconCaption": "146",
+				"iconContent": "146",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 129,
+			"geometry": { "type": "Point", "coordinates": [51.813812, 55.109621] },
+			"properties": {
+				"description": "ИП Осетров Сергей Викторович,Оренбург, Лента ул. Рокосовского, д. 2",
+				"iconCaption": "147",
+				"iconContent": "147",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 130,
+			"geometry": { "type": "Point", "coordinates": [45.28049, 37.367499] },
+			"properties": {
+				"description": "ИП Кузнецова Ирина Владимировна,Темрюк, Ленина 35",
+				"iconCaption": "148",
+				"iconContent": "148",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 131,
+			"geometry": { "type": "Point", "coordinates": [47.210602, 39.672361] },
+			"properties": {
+				"description": "ИП Чуркин Сергей Николаевич,Ростов-На-Дону, Днепровский пер., 107/1 / пр. Стачки, 25.",
+				"iconCaption": "149",
+				"iconContent": "149",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 132,
+			"geometry": { "type": "Point", "coordinates": [55.709216, 48.348694] },
+			"properties": {
+				"description": "ИП Хайруллина Люция Равилевна,Зеленодольск, Татарстана 9",
+				"iconCaption": "150",
+				"iconContent": "150",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 133,
+			"geometry": { "type": "Point", "coordinates": [54.190973, 37.604556] },
+			"properties": {
+				"description": "ИП Бушина Анна Владимировна,Тула, Пушкинская,32",
+				"iconCaption": "151",
+				"iconContent": "151",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 134,
+			"geometry": { "type": "Point", "coordinates": [57.442869, 42.170935] },
+			"properties": {
+				"description": "ИП Дмитриева Надежда Вячеславовна,Кинешма, ТЦ Юбилейный, Пл. Революции 4",
+				"iconCaption": "152",
+				"iconContent": "152",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 135,
+			"geometry": { "type": "Point", "coordinates": [51.726518, 39.036928] },
+			"properties": {
+				"description": "ИП Мазурок Валерий Владимирович,Воронеж, с. Семилуки, ул. Щеголевых, д. 1",
+				"iconCaption": "153",
+				"iconContent": "153",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 136,
+			"geometry": { "type": "Point", "coordinates": [56.145093, 40.36904] },
+			"properties": {
+				"description": "ИП Лепахин Дмитрий Викторович,Владимир, проспект Строителей 10",
+				"iconCaption": "154",
+				"iconContent": "154",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 137,
+			"geometry": { "type": "Point", "coordinates": [54.173653, 37.616935] },
+			"properties": {
+				"description": "ИП Кошелев Денис Юрьевич,Тула, Михеева 15",
+				"iconCaption": "155",
+				"iconContent": "155",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 138,
+			"geometry": { "type": "Point", "coordinates": [47.27173, 39.870448] },
+			"properties": {
+				"description": "ИП Хитро Мария Сергеевна,Аксай, ул. Садовая, 8 Б",
+				"iconCaption": "156",
+				"iconContent": "156",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 139,
+			"geometry": { "type": "Point", "coordinates": [42.972863, 47.482368] },
+			"properties": {
+				"description": "ООО «ЭНЕРГОКОНСАЛТ»,Махачкала, Ташкентская 13",
+				"iconCaption": "157",
+				"iconContent": "157",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 140,
+			"geometry": { "type": "Point", "coordinates": [55.35484, 86.162917] },
+			"properties": {
+				"description": "ИП Тельбух Сергей Александрович,Кемерово, Магнит, проспект Октябрьский, 68",
+				"iconCaption": "159",
+				"iconContent": "159",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 141,
+			"geometry": { "type": "Point", "coordinates": [54.66891, 20.510272] },
+			"properties": {
+				"description": "ИП Карафелова Виктория Николаевна,Калининград, ТЦ Вестер ул. Интернациональная 76",
+				"iconCaption": "161",
+				"iconContent": "161",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 142,
+			"geometry": { "type": "Point", "coordinates": [61.040462, 30.124716] },
+			"properties": {
+				"description": "ИП Кирюхин Дмитрий Дмитриевич,Приозерск, ул. Гоголя д.11",
+				"iconCaption": "162",
+				"iconContent": "162",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 143,
+			"geometry": { "type": "Point", "coordinates": [52.717815, 58.662602] },
+			"properties": {
+				"description": "ИП Кудакаева Адилия Равильевна,Сибай, ул. Горского, д. 39",
+				"iconCaption": "163",
+				"iconContent": "163",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 144,
+			"geometry": { "type": "Point", "coordinates": [54.348207, 48.352709] },
+			"properties": {
+				"description": "ИП Долгов Дмитрий Алексеевич,Ульяновск, ул. Репина 37 Б",
+				"iconCaption": "164",
+				"iconContent": "164",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 145,
+			"geometry": { "type": "Point", "coordinates": [59.733137, 30.577143] },
+			"properties": {
+				"description": "ИП Китабов Игорь Олегович,Санкт-Петербург, Колпино, ул. Веры Слуцкой, 89",
+				"iconCaption": "165",
+				"iconContent": "165",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 146,
+			"geometry": { "type": "Point", "coordinates": [54.378607, 48.575132] },
+			"properties": {
+				"description": "ИП Ижуков Сергей Дмитриевич,Ульяновск, ТЦ Панорама Ульяновский проспект, 17А",
+				"iconCaption": "166",
+				"iconContent": "166",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 147,
+			"geometry": { "type": "Point", "coordinates": [45.358911, 40.69635] },
+			"properties": {
+				"description": "ИП Волобуева Полина Юрьевна,Гулькевичи, ул.Комсомольская, дом № 97",
+				"iconCaption": "167",
+				"iconContent": "167",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 148,
+			"geometry": { "type": "Point", "coordinates": [58.006116, 56.273173] },
+			"properties": {
+				"description": "ИП Меньшиков Данила Сергеевич,Пермь, Революции 5а",
+				"iconCaption": "168",
+				"iconContent": "168",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 149,
+			"geometry": { "type": "Point", "coordinates": [51.706821, 39.14902] },
+			"properties": {
+				"description": "ИП Безгребельная Ольга Александровна,Воронеж, ул. Генерала лизюкова 62",
+				"iconCaption": "169",
+				"iconContent": "169",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 150,
+			"geometry": { "type": "Point", "coordinates": [58.544946, 31.244582] },
+			"properties": {
+				"description": "ИП Фатиевских Владимир Юрьевич,Великий Новгород, ТЦ Славянская Ярмарка, просп. Александра Корсунова, 18",
+				"iconCaption": "170",
+				"iconContent": "170",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 151,
+			"geometry": { "type": "Point", "coordinates": [51.762129, 36.184553] },
+			"properties": {
+				"description": "Мурженко Ирина Александровна,Курск, Карла Маркса 68",
+				"iconCaption": "171",
+				"iconContent": "171",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 152,
+			"geometry": { "type": "Point", "coordinates": [55.351933, 86.153179] },
+			"properties": {
+				"description": "ООО Стимул-Трейд,Кемерово, пр-т Октябрский 56",
+				"iconCaption": "172",
+				"iconContent": "172",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 153,
+			"geometry": { "type": "Point", "coordinates": [48.485473, 135.067264] },
+			"properties": {
+				"description": "ИП Новикова Лариса Сергеевна, Хабаровск, ул. Льва Толстого, 19",
+				"iconCaption": "173",
+				"iconContent": "173",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 154,
+			"geometry": { "type": "Point", "coordinates": [57.939958, 55.327912] },
+			"properties": {
+				"description": "ИП Исмагилова Газима Фаттаховна, Нытва, Карла Маркса 66 строение 1",
+				"iconCaption": "174",
+				"iconContent": "174",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 155,
+			"geometry": { "type": "Point", "coordinates": [55.833268, 37.5213] },
+			"properties": {
+				"description": "ИП Малинина Лариса Борисовна, Москва, ул. Коптевская д 24 стр3",
+				"iconCaption": "175",
+				"iconContent": "175",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 156,
+			"geometry": { "type": "Point", "coordinates": [44.886114, 37.326267] },
+			"properties": {
+				"description": "ИП Красносельская Татьяна Михайловна, Анапа, ул. Краснодарская, 66В",
+				"iconCaption": "176",
+				"iconContent": "176",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 157,
+			"geometry": { "type": "Point", "coordinates": [53.306492, 50.285408] },
+			"properties": {
+				"description": "ИП Тыщенко Екатерина Викторовна, Самара, Мехзавод 1ый квартал д.55",
+				"iconCaption": "177",
+				"iconContent": "177",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 158,
+			"geometry": { "type": "Point", "coordinates": [53.194459, 50.247535] },
+			"properties": {
+				"description": "ООО \"ЭКО-ПРИМУС\", Самара, Заводское шоссе 111",
+				"iconCaption": "178",
+				"iconContent": "178",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 159,
+			"geometry": { "type": "Point", "coordinates": [53.192129, 50.234905] },
+			"properties": {
+				"description": "ООО \"ЭКО-ПРИМУС\", Самара, Мальцева проезд 9/1",
+				"iconCaption": "179",
+				"iconContent": "179",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 160,
+			"geometry": { "type": "Point", "coordinates": [54.013686, 38.83399] },
+			"properties": {
+				"description": "ООО \"ЭКО-ПРИМУС\", Самара, Г. Похвистнево Революционная 4",
+				"iconCaption": "180",
+				"iconContent": "180",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 161,
+			"geometry": { "type": "Point", "coordinates": [56.805037, 60.574972] },
+			"properties": {
+				"description": "Кустов Александр Сергеевич, Екатеринбург, Волгоградская 49 а , ТЦ Уралец",
+				"iconCaption": "181",
+				"iconContent": "181",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 162,
+			"geometry": { "type": "Point", "coordinates": [51.712798, 39.198607] },
+			"properties": {
+				"description": "ИП Золотарев Андрей Владимирович, Воронеж, бульвар Олимпийский дом 6",
+				"iconCaption": "182",
+				"iconContent": "182",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 163,
+			"geometry": { "type": "Point", "coordinates": [55.795504, 49.178818] },
+			"properties": {
+				"description": "ООО Доктор Аптос, Казань, Ершова 62 Д Верный",
+				"iconCaption": "183",
+				"iconContent": "183",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 164,
+			"geometry": { "type": "Point", "coordinates": [55.751437, 49.230965] },
+			"properties": {
+				"description": "ИП Абязов Адель Айдарович, Казань, кул гали 9а перекресток",
+				"iconCaption": "184",
+				"iconContent": "184",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 165,
+			"geometry": { "type": "Point", "coordinates": [55.736878, 37.654206] },
+			"properties": {
+				"description": "ИП Явкина Ольга Александровна, Москва, ул. Большие Каменщики, д.6 (Билла)",
+				"iconCaption": "185",
+				"iconContent": "185",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 166,
+			"geometry": { "type": "Point", "coordinates": [55.608043, 37.615973] },
+			"properties": {
+				"description": "ИП Явкина Ольга Александровна, Москва, ул. Подольских Курсантов, д.10 (Билла)",
+				"iconCaption": "186",
+				"iconContent": "186",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 167,
+			"geometry": { "type": "Point", "coordinates": [45.060217, 38.953071] },
+			"properties": {
+				"description": "ИП Ливада Маргарита Владимировна, Краснодар, Атарбекова 19",
+				"iconCaption": "187",
+				"iconContent": "187",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 168,
+			"geometry": { "type": "Point", "coordinates": [56.004519, 92.931237] },
+			"properties": {
+				"description": "ИП Прохорович Надежда Владимировна, Красноярск, ТЦ Красноярье просп. имени Газеты Красноярский Рабочий, 120",
+				"iconCaption": "188",
+				"iconContent": "188",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 169,
+			"geometry": { "type": "Point", "coordinates": [54.99321, 82.849624] },
+			"properties": {
+				"description": "ИП Устьянцева Лидия Николаевна, Новосибирск, Широкая ул., 113/2 ТЦ Широта",
+				"iconCaption": "189",
+				"iconContent": "189",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 170,
+			"geometry": { "type": "Point", "coordinates": [53.330053, 83.674152] },
+			"properties": {
+				"description": "ИП Борщевая Наталья Александровна, Барнаул, ТЦ Заря Власихинская, 166",
+				"iconCaption": "190",
+				"iconContent": "190",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 171,
+			"geometry": { "type": "Point", "coordinates": [56.631659, 47.916892] },
+			"properties": {
+				"description": "ИП Арсибекова Татьяна Валерьевна, Йошкар Ола, бульвар Чавайна 16, ТЦ Ананас",
+				"iconCaption": "191",
+				"iconContent": "191",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 172,
+			"geometry": { "type": "Point", "coordinates": [54.2597, 48.335004] },
+			"properties": {
+				"description": "ИП Салихова Эльмира Рестемовна, Ульяновск, ул. Хрустальная 19б Магнит",
+				"iconCaption": "192",
+				"iconContent": "192",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 173,
+			"geometry": { "type": "Point", "coordinates": [54.359509, 48.564613] },
+			"properties": {
+				"description": "ИП Салихова Эльмира Рестемовна, Ульяновск,  Мегастрой Созидателей, 116",
+				"iconCaption": "193",
+				"iconContent": "193",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 174,
+			"geometry": { "type": "Point", "coordinates": [53.652124, 52.1254] },
+			"properties": {
+				"description": "ООО \"ЭКО-ПРИМУС\", Самара, г. Похвистнево, Революционная 4",
+				"iconCaption": "194",
+				"iconContent": "194",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 175,
+			"geometry": { "type": "Point", "coordinates": [53.194459, 50.247535] },
+			"properties": {
+				"description": "ООО \"ЭКО-ПРИМУС\", Самара, Заводское шоссе 111",
+				"iconCaption": "195",
+				"iconContent": "195",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 176,
+			"geometry": { "type": "Point", "coordinates": [53.192129, 50.234905] },
+			"properties": {
+				"description": "ООО \"ЭКО-ПРИМУС\", Самара, Мальцева проезд 9/1",
+				"iconCaption": "196",
+				"iconContent": "196",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 177,
+			"geometry": { "type": "Point", "coordinates": [54.977491, 83.047874] },
+			"properties": {
+				"description": "ИП Королева Наталья Николаевна, Новосибирск, Ул. Первомайская д. 238",
+				"iconCaption": "198",
+				"iconContent": "198",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 178,
+			"geometry": { "type": "Point", "coordinates": [47.210602, 39.672361] },
+			"properties": {
+				"description": "ИП Чуркин Сергей Николаевич, Ростов-На-Дону, пр. Стачки, 25. ТРК Сокол",
+				"iconCaption": "199",
+				"iconContent": "199",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 179,
+			"geometry": { "type": "Point", "coordinates": [54.811487, 56.129443] },
+			"properties": {
+				"description": "ИП Зайнитдинова Зухра Раилевна, Уф, Магазин Байрам, ул. Вологодская 19",
+				"iconCaption": "200",
+				"iconContent": "200",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 180,
+			"geometry": { "type": "Point", "coordinates": [51.467785, 46.157793] },
+			"properties": {
+				"description": "ИП Андриевская Наталия Александровна, город Энгельс, ТЦ Лидер, ул. Химиков 1",
+				"iconCaption": "201",
+				"iconContent": "201",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 181,
+			"geometry": { "type": "Point", "coordinates": [56.805037, 60.574972] },
+			"properties": {
+				"description": "ИП Кустов Александр Сергеевич, Екатеринбург, Волгоградская 49 а , ТЦ Уралец",
+				"iconCaption": "202",
+				"iconContent": "202",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 182,
+			"geometry": { "type": "Point", "coordinates": [54.359509, 48.564613] },
+			"properties": {
+				"description": "ИП Салихова Эльмира Рестемовна, Ульяновск, Мегастрой Созидателей, 116",
+				"iconCaption": "203",
+				"iconContent": "203",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 183,
+			"geometry": { "type": "Point", "coordinates": [54.2597, 48.335004] },
+			"properties": {
+				"description": "ИП Салихова Эльмира Рестемовна, Ульяновск, ул. Хрустальная 19б Магнит",
+				"iconCaption": "204",
+				"iconContent": "204",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 184,
+			"geometry": { "type": "Point", "coordinates": [55.736878, 37.654206] },
+			"properties": {
+				"description": "ИП Явкина Ольга Александровна, Москва, ул. Большие Каменщики, д.6",
+				"iconCaption": "205",
+				"iconContent": "205",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 185,
+			"geometry": { "type": "Point", "coordinates": [55.608043, 37.615973] },
+			"properties": {
+				"description": "ИП Явкина Ольга Александровна, Москва ул. Подольских Курсантов, д.10",
+				"iconCaption": "206",
+				"iconContent": "206",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 186,
+			"geometry": { "type": "Point", "coordinates": [57.786687, 40.918773] },
+			"properties": {
+				"description": "ИП Кузьмичев Андрей Аркадьевич, Кострома, Профсоюзная 25а/Ул. Ткачей 7 б",
+				"iconCaption": "207",
+				"iconContent": "207",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 187,
+			"geometry": { "type": "Point", "coordinates": [59.900064, 30.490617] },
+			"properties": {
+				"description": "ИП Китабов Игорь Олегович, Санкт Петербург, пр-т Большевиков, 24к1",
+				"iconCaption": "208",
+				"iconContent": "208",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 188,
+			"geometry": { "type": "Point", "coordinates": [59.944431, 30.48335] },
+			"properties": {
+				"description": "ИП Китабов Игорь Олегович, Санкт Петербург, проспект Косыгина 21к1",
+				"iconCaption": "209",
+				"iconContent": "209",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 189,
+			"geometry": { "type": "Point", "coordinates": [59.838475, 30.270243] },
+			"properties": {
+				"description": "ИП Китабов Игорь Олегович, Санкт Петербург, пр-т Народного Ополчения, 115Б",
+				"iconCaption": "210",
+				"iconContent": "210",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 190,
+			"geometry": { "type": "Point", "coordinates": [46.326503, 48.021537] },
+			"properties": {
+				"description": "ИП Савицкая Анна Владимировна, Астрахань, Румынская д. 9 (Магнит), Барсова 12 б, Боевая, д. 74",
+				"iconCaption": "211",
+				"iconContent": "211",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 191,
+			"geometry": { "type": "Point", "coordinates": [53.547296, 49.33119] },
+			"properties": {
+				"description": "ИП Гуреева Ольга Ростиславна, Тольятти, ТД Водолей, ул. Автостроителей 4",
+				"iconCaption": "212",
+				"iconContent": "212",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 192,
+			"geometry": { "type": "Point", "coordinates": [53.508366, 49.291278] },
+			"properties": {
+				"description": "ИП Гуреева Ольга Ростиславна, Тольятти, Степана Разина 52А Елена",
+				"iconCaption": "213",
+				"iconContent": "213",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 193,
+			"geometry": { "type": "Point", "coordinates": [53.215462, 50.16189] },
+			"properties": {
+				"description": "ИП Самохина Юлия Сергеевна, г. Самара, ул. Ерошеевского д. 20",
+				"iconCaption": "214",
+				"iconContent": "214",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 194,
+			"geometry": { "type": "Point", "coordinates": [53.652124, 52.1254] },
+			"properties": {
+				"description": "ООО \"ЭКО-ПРИМУС\", Г. Похвистнево, ул. Революционная, д.  4",
+				"iconCaption": "215",
+				"iconContent": "215",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 195,
+			"geometry": { "type": "Point", "coordinates": [53.199681, 50.262375] },
+			"properties": {
+				"description": "ООО \"ЭКО-ПРИМУС\", г. Самара, ул.  Заводское шоссе, д. 11",
+				"iconCaption": "216",
+				"iconContent": "216",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 196,
+			"geometry": { "type": "Point", "coordinates": [53.192129, 50.234905] },
+			"properties": {
+				"description": "ООО \"ЭКО-ПРИМУС\", г. Самара,  Мальцева проезд. д. 9/1",
+				"iconCaption": "217",
+				"iconContent": "217",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 197,
+			"geometry": { "type": "Point", "coordinates": [53.310936, 50.301119] },
+			"properties": {
+				"description": "ИП Тыщенко Екатерина Викторовна, г. Самара, посёлок Мехзавод, 1-й квартал, 55 ",
+				"iconCaption": "218",
+				"iconContent": "218",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 198,
+			"geometry": { "type": "Point", "coordinates": [68.921121, 33.115647] },
+			"properties": {
+				"description": "ИП Бойцов Сергей Васильевич, г. Мурманск, Кольский проспект, д. 134",
+				"iconCaption": "219",
+				"iconContent": "219",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 199,
+			"geometry": { "type": "Point", "coordinates": [54.984455, 82.755741] },
+			"properties": {
+				"description": "ИП Липчук Александр Александрович, г. Новосибирск, п. Толмачёво,  ул. Победы, д. 2",
+				"iconCaption": "220",
+				"iconContent": "220",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 200,
+			"geometry": { "type": "Point", "coordinates": [57.786639, 40.918998] },
+			"properties": {
+				"description": "ИП Кузьмичев Андрей Аркадьевич, г. Кострома ул. Ткачей 7 б ТЦ Галерея",
+				"iconCaption": "221",
+				"iconContent": "221",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 201,
+			"geometry": { "type": "Point", "coordinates": [52.617039, 39.556748] },
+			"properties": {
+				"description": "ИП Какалин Андрей Геннадиевич, г. Липецк, ул. Титова, д.10",
+				"iconCaption": "222",
+				"iconContent": "222",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 202,
+			"geometry": { "type": "Point", "coordinates": [54.984455, 82.755741] },
+			"properties": {
+				"description": "ИП Липчук Александр Александрович, г. Толмачёво, ул. Победы, д.  2",
+				"iconCaption": "223",
+				"iconContent": "223",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 203,
+			"geometry": { "type": "Point", "coordinates": [55.736878, 37.654206] },
+			"properties": {
+				"description": "ИП Явкина Ольга Александровна, Москва ту. Большие Каменщики, д.6 (Билла)",
+				"iconCaption": "224",
+				"iconContent": "224",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 204,
+			"geometry": { "type": "Point", "coordinates": [55.675352, 37.470662] },
+			"properties": {
+				"description": "ИП Мануйлова Анастасия Леонидовна, г. Москва, Олимпийская деревня, Мичуринский проспект, д. 4, корпус 3, магазин \"Billa\"",
+				"iconCaption": "225",
+				"iconContent": "225",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 205,
+			"geometry": { "type": "Point", "coordinates": [59.838475, 30.270243] },
+			"properties": {
+				"description": "ИП Китабов Игорь Олегович, г. Санкт-Петербург, пр-т Народного Ополчения, д. 115Б",
+				"iconCaption": "226",
+				"iconContent": "226",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 206,
+			"geometry": { "type": "Point", "coordinates": [59.900064, 30.490617] },
+			"properties": {
+				"description": "ИП Китабов Игорь Олегович, г. Санкт-Петербург, пр-т Большевиков, д. 24к1",
+				"iconCaption": "227",
+				"iconContent": "227",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 207,
+			"geometry": { "type": "Point", "coordinates": [59.944431, 30.48335] },
+			"properties": {
+				"description": "ИП Китабов Игорь Олегович, г. Санкт-Петербург, проспект Косыгина, д. 21к1",
+				"iconCaption": "228",
+				"iconContent": "228",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 208,
+			"geometry": { "type": "Point", "coordinates": [54.2597, 48.335004] },
+			"properties": {
+				"description": "ИП Салихова Эльмира Рестемовна, г. Ульяновск, ул. Хрустальная, д. 19б, СМ \" Магнит\"",
+				"iconCaption": "229",
+				"iconContent": "229",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 209,
+			"geometry": { "type": "Point", "coordinates": [54.359509, 48.564613] },
+			"properties": {
+				"description": "ИП Салихова Эльмира Рестемовна, г. Ульяновск, ул. Созидателей, д. 116",
+				"iconCaption": "230",
+				"iconContent": "230",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 210,
+			"geometry": { "type": "Point", "coordinates": [55.097574, 82.968472] },
+			"properties": {
+				"description": "ИП Усачева Татьяна Григорьевна, г. Новосибирск, ТЦ Стрижи, ул. Объединения 94",
+				"iconCaption": "231",
+				"iconContent": "231",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 211,
+			"geometry": { "type": "Point", "coordinates": [54.99321, 82.849624] },
+			"properties": {
+				"description": "ИП Устьянцева Лидия Николаевна, г. Новосибирск, ул. Широкая, д. 113/2,  ТЦ Широта",
+				"iconCaption": "232",
+				"iconContent": "232",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 212,
+			"geometry": { "type": "Point", "coordinates": [54.957061, 82.96212] },
+			"properties": {
+				"description": "ИП Тихонов Михаил Николаевич, г. Нвосибирск, ул. Комсомольская, д. 23а/1, Северо-Чемской рынок",
+				"iconCaption": "233",
+				"iconContent": "233",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 213,
+			"geometry": { "type": "Point", "coordinates": [55.795545, 49.180552] },
+			"properties": {
+				"description": "ООО Доктор Аптос, г. Казань, ул. Ершова, д. 62 Д, маг. \"Верный\"",
+				"iconCaption": "234",
+				"iconContent": "234",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 214,
+			"geometry": { "type": "Point", "coordinates": [55.751437, 49.230965] },
+			"properties": {
+				"description": "ИП Абязов Адель Айдарович, г. Казань, ул. Кул Гали, д.9а, маг. \"Перекресток\"",
+				"iconCaption": "235",
+				"iconContent": "235",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 215,
+			"geometry": { "type": "Point", "coordinates": [46.404039, 48.085389] },
+			"properties": {
+				"description": "ИП Савицкая Анна Владимировна, г. Астрахань, ул. Румынская,  д. 9 (Магнит)",
+				"iconCaption": "236",
+				"iconContent": "236",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 216,
+			"geometry": { "type": "Point", "coordinates": [46.345263, 48.066551] },
+			"properties": {
+				"description": "ИП Савицкая Анна Владимировна, г. Астрахань, Валерии Барсовой, 12Б",
+				"iconCaption": "237",
+				"iconContent": "237",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 217,
+			"geometry": { "type": "Point", "coordinates": [46.326503, 48.021537] },
+			"properties": {
+				"description": "ИП Савицкая Анна Владимировна, г. Астрахань, ул. Боевая, д. 74",
+				"iconCaption": "238",
+				"iconContent": "238",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 218,
+			"geometry": { "type": "Point", "coordinates": [55.689152, 37.58287] },
+			"properties": {
+				"description": "ИП Явкина Ольга Александровна, г. Москва, ул. Винокурова, д.4 (Билла)",
+				"iconCaption": "239",
+				"iconContent": "239",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 219,
+			"geometry": { "type": "Point", "coordinates": [52.955493, 36.074339] },
+			"properties": {
+				"description": "ИП Ляхов Руслан Николаевич, г. Орёл, ул. Гагарина, д. 51, маг. \"Перекресток\"",
+				"iconCaption": "240",
+				"iconContent": "240",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 220,
+			"geometry": { "type": "Point", "coordinates": [54.811487, 56.129443] },
+			"properties": {
+				"description": "ИП Зайнитдинова Зухра Раилевна, г. Уфа, ул.Вологодская 19, маг.  Байрам",
+				"iconCaption": "241",
+				"iconContent": "241",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 221,
+			"geometry": { "type": "Point", "coordinates": [54.731576, 20.56585] },
+			"properties": {
+				"description": "ИП Козлова Елена Викторовна, г. Калиниград, ул. Юрия Гагарина, 227 маг. \"Доброцен\"",
+				"iconCaption": "242",
+				"iconContent": "242",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 222,
+			"geometry": { "type": "Point", "coordinates": [43.594261, 39.724158] },
+			"properties": {
+				"description": "ИП Ефремова Наталия Сергеевна, г. Сочи, ТЦ Ярославна ул. Роз, д.95",
+				"iconCaption": "243",
+				"iconContent": "243",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 223,
+			"geometry": { "type": "Point", "coordinates": [55.112741, 36.589648] },
+			"properties": {
+				"description": "ИП Шувалова Лариса Владимировна, г. Обнинск, ул. Маркса, 8 ТЦ Максимус",
+				"iconCaption": "244",
+				"iconContent": "244",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 224,
+			"geometry": { "type": "Point", "coordinates": [51.26102, 58.607473] },
+			"properties": {
+				"description": "ИП Чешенко Дмитрий Владимирович, г. Орск, ул. Мира, д. 15, остановка Сквер Славы",
+				"iconCaption": "245",
+				"iconContent": "245",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 225,
+			"geometry": { "type": "Point", "coordinates": [56.85372, 35.865292] },
+			"properties": {
+				"description": "ИП Мержанова Алена Юрьевна, г. Тверь, просп. Калинина, 15, стр. 1",
+				"iconCaption": "246",
+				"iconContent": "246",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 226,
+			"geometry": { "type": "Point", "coordinates": [53.330053, 83.674152] },
+			"properties": {
+				"description": "ИП Борщевая Наталья Александровна, г. Барнаул, ул. Власихинской, 166, ТЦ Заря",
+				"iconCaption": "247",
+				"iconContent": "247",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 227,
+			"geometry": { "type": "Point", "coordinates": [51.467785, 46.157793] },
+			"properties": {
+				"description": "ИП Андриевская Наталия Александровна, г. Энгельс,ТЦ Лидер ул. Химиков 1",
+				"iconCaption": "248",
+				"iconContent": "248",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 228,
+			"geometry": { "type": "Point", "coordinates": [45.060217, 38.953071] },
+			"properties": {
+				"description": "ИП Ливада Маргарита Владимировна, г. Краснодар, ул. Атарбекова, д. 19",
+				"iconCaption": "249",
+				"iconContent": "249",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 229,
+			"geometry": { "type": "Point", "coordinates": [54.237921, 49.57149] },
+			"properties": {
+				"description": "ИП Жильцова Анна Сергеевна, г. Димитроград, Гвардейская ул., д. 21 маг. \"Пятерочка\"",
+				"iconCaption": "250",
+				"iconContent": "250",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 230,
+			"geometry": { "type": "Point", "coordinates": [51.307068, 37.891253] },
+			"properties": {
+				"description": "ИП Навасардян Светалана Витальевна, Старый Оскол, ТЦ Оскол, м-н Олимпийский, д. 63",
+				"iconCaption": "251",
+				"iconContent": "251",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 231,
+			"geometry": { "type": "Point", "coordinates": [56.805037, 60.574972] },
+			"properties": {
+				"description": "ИП Кустов Александр Сергеевич, г. Екатеринбург, ул. Волгоградская 49 а , ТЦ Уралец",
+				"iconCaption": "252",
+				"iconContent": "252",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 232,
+			"geometry": { "type": "Point", "coordinates": [68.921121, 33.115647] },
+			"properties": {
+				"description": "ИП Бойцов Сергей Васильевич, г. Мурманск, пр. Кольский, д. 134 ТРЦ Форум",
+				"iconCaption": "253",
+				"iconContent": "253",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 233,
+			"geometry": { "type": "Point", "coordinates": [51.712798, 39.198607] },
+			"properties": {
+				"description": "ИП Золотарев Андрей Владимирович, г. Воронеж, бульвар Олимпийский, дом 6",
+				"iconCaption": "254",
+				"iconContent": "254",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 234,
+			"geometry": { "type": "Point", "coordinates": [52.508159, 103.83797] },
+			"properties": {
+				"description": "ИП Прус Елена Григорьевна, г. Ангарск, ул. Социалистическая, 12. ТЦ \"Раума Плюс\"",
+				"iconCaption": "255",
+				"iconContent": "255",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 235,
+			"geometry": { "type": "Point", "coordinates": [56.004519, 92.931237] },
+			"properties": {
+				"description": "ИП Прохорович Надежда Владимировна, г. Краснеоярск, ТЦ Красноярье, просп. имени Газеты Красноярский Рабочий, д. 120",
+				"iconCaption": "256",
+				"iconContent": "256",
+				"marker-color": "#1e98ff"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 236,
+			"geometry": { "type": "Point", "coordinates": [53.306492, 50.285408] },
+			"properties": {
+				"description": "ИП Тыщенко Екатерина Викторовна, г. Самара, посёлок Мехзавод, 1-й квартал, д. 55",
+				"iconCaption": "257",
+				"iconContent": "257",
+				"marker-color": "#1e98ff"
+			}
+		}
+	]
+}
