@@ -5,7 +5,7 @@ ymaps.ready(function () {
 				center: [60, 80],
 				zoom: 4,
 				type: 'yandex#map',
-				controls: ['smallMapDefaultSet'],
+				controls: ['smallMapDefaultSet', 'rulerControl'],
 			},
 			{
 				searchControlProvider: 'yandex#search',
